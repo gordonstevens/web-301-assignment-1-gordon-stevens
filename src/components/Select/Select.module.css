@@ -1,0 +1,7 @@
+.selectPetName {
+    background-color: rgba(33,33,33,0.65);
+    color: rgba(222,222,222,1.0);
+    width: 512px;
+    height: 50px;
+    padding: 3px 9px;
+}

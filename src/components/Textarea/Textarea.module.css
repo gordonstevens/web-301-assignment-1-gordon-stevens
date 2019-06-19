@@ -1,0 +1,19 @@
+.textAreaBox, .textAreaResponse {
+    line-height: 1.5;
+    padding: 9px;
+    border: 3px solid rgba(33,33,33,0.80);
+    min-width: 400px;
+    min-height: 200px;
+    width: 512px;
+    margin: auto;
+}
+
+.textAreaBox {
+    background-color: rgba(33,33,33,0.65);
+    color: rgba(222,222,222,1.0);
+    padding: 9px;
+}
+
+.textAreaResponse {
+    color: rgba(55,55,55,0.9);
+}
